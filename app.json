@@ -69,15 +69,15 @@
       "required": false
     },
     "LEECH_COMMAND": {
-      "description": "Enter your custom leech command like /leech@botname and so on. Default is /leech",
+      "description": "Enter your custom leech command like /leech@botname and so on. Default is leech",
       "required": false
     },
     "SAVE_THUMBNAIL": {
-      "description": "For custom thumbnail Command. default is /savethumbnail",
+      "description": "For custom thumbnail Command. default is savethumbnail",
       "required": false
     },
     "CLEAR_THUMBNAIL": {
-      "description": "For Delete Thumbnail Command. Default is /clearthumbnail",
+      "description": "For Delete Thumbnail Command. Default is clearthumbnail",
       "required": false
     },
     "INDEX_LINK": {
@@ -85,27 +85,27 @@
       "required": false
     },
     "GLEECH_COMMAND": {
-      "description": "Enter your custom gleech command like /gleech1@urgroupname and so on. Default is /gleech",
+      "description": "Enter your custom gleech command like /gleech1@urgroupname and so on. Default is gleech",
       "required": false
     },
     "TELEGRAM_LEECH_COMMAND_G": {
-      "description": "Enter your custom tleech command like /tleech1@urgroupname and so on. Default is /tleech",
+      "description": "Enter your custom tleech command like /tleech1@urgroupname and so on. Default is tleech",
       "required": false
     },
     "YTDL_COMMAND": {
-      "description": "Enter your custom ytdl command like ytdl1@urgroupname and so on. Default is /ytdl.",
+      "description": "Enter your custom ytdl command like ytdl1@urgroupname and so on. Default is ytdl.",
       "required": false
     },
     "PYTDL_COMMAND_G": {
-      "description": "Enter your custom pytdl command like pytdl1@urgroupname and so on. Default is /pytdl.",
+      "description": "Enter your custom pytdl command like pytdl1@urgroupname and so on. Default is pytdl.",
       "required": false
     },
     "CANCEL_COMMAND_G": {
-      "description": "Enter your custom cancel command like cancel@urgroupname and so on. Default is /cancel.",
+      "description": "Enter your custom cancel command like cancel@urgroupname and so on. Default is cancel.",
       "required": false
     },
     "GET_SIZE_G": {
-      "description": "Enter your custom getsize command like getsize@urgroupname and so on. Default is /getsize.",
+      "description": "Enter your custom getsize command like getsize@urgroupname and so on. Default is getsize.",
       "required": false
     },
     "RCLONE_CONFIG": {
